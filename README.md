@@ -37,6 +37,7 @@ It uses
 		"vue-template-compiler": "^2.6.10"
 	}
 	```
+1. Run `npm install` to get dependencies
+	- Parcel can detect and install missing dependencies but I had issues when I skipped this step initially.
 1. Run `npm start` to begin developing
-	- Parcel can detect and install missing dependencies. So there should be no need for `npm install`. If `npm start` fails the first time. Try running it again.
 1. Replace this file with a relevant README
